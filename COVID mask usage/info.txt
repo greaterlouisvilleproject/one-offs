@@ -1,0 +1,4 @@
+Article: "A Detailed Map of Who Is Wearing Masks in the U.S.", New York Times
+https://www.nytimes.com/interactive/2020/07/17/upshot/coronavirus-face-mask-map.html
+
+Data from https://github.com/nytimes/covid-19-data/tree/master/mask-use
